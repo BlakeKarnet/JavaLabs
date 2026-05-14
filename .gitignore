@@ -6,6 +6,12 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+### Java build ###
+target/
+build/
+*.class
+.gradle/
+
 ### Eclipse ###
 .apt_generated
 .classpath
