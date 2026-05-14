@@ -1,4 +1,6 @@
-# Java Labs
+# JavaLabs
+
+Labs from "Core Java" on Java 21.
 
 Учебный репозиторий для лабораторных работ по Java.
 
