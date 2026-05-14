@@ -1,0 +1,17 @@
+final int x = 5;
+
+//
+
+final int x;
+
+A(int n) {
+    x = n;
+}
+
+//
+
+final int x;
+
+{
+    x = 10;
+}
